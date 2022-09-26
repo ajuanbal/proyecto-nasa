@@ -1,1 +1,2 @@
 codigo funcion 1
+Se refactoriza el codigo
